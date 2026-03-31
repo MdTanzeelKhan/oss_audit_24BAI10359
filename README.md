@@ -1,8 +1,8 @@
-# oss-audit-24BCE10678
+# oss-audit-2BAI10359
 
 This is my Open Source Software lab repo for auditing **Git** on **Ubuntu 24.04 (WSL2)**.
 
-I’m **Krishna** (`krishna`, reg no `24BCE10678`). I wrote a few small shell scripts to pull basic system info, check package info, audit a couple of directories, and scan a log file for keyword matches.
+I’m **Tanzeel** (`Tanzeel`, reg no `24BAI10359`). I wrote a few small shell scripts to pull basic system info, check package info, audit a couple of directories, and scan a log file for keyword matches.
 
 ## What’s inside
 
@@ -15,7 +15,7 @@ I’m **Krishna** (`krishna`, reg no `24BCE10678`). I wrote a few small shell sc
 
 ## How to run the scripts
 
-From the repo directory (`/home/krishna/oss-audit-24BCE10678`):
+From the repo directory (`/home/TANZEEN/oss-audit-24BAI10359`):
 
 1. Make them executable (one-time):
    - `chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh`
